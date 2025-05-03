@@ -43,8 +43,8 @@ cd Modiseh-sample-project
 
 ##  Features
 
--Simple, clean design using Bootstrap
--Fully responsive layout (works on mobile, tablet, and desktop)
+- Simple, clean design using Bootstrap
+- Fully responsive layout (works on mobile, tablet, and desktop)
 
 ---
 
